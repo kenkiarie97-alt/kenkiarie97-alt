@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#I am ken, an aspiring programmer, currently interested in back end developement
 <!--
 **kenkiarie97-alt/kenkiarie97-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
