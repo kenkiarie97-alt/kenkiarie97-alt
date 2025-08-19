@@ -1,16 +1,14 @@
-## Hi there 👋
-#I am ken, an aspiring programmer, currently interested in back end developement
-<!--
-**kenkiarie97-alt/kenkiarie97-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there I am ken 👋
+#an aspiring Developer, currently interested in back end developement |Lifelong learner
+## About me
+- 🌱 I’m currently learning **web development**
+- 👯 **2025 Goal**: Build my first app
+- 🤔 Passionate about solving real-world problems with tech
+---
+## Tech & Tools
+Languages: Python, javascript (learning)
+Exploring: Web & App development
+- 📫 How to reach me: my LinkedIn profile Ken kiarie
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I pay attention to tiny details
 -->
